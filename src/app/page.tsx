@@ -5,7 +5,7 @@ export default async function Home() {
     <>
     <Navbar/>
     <Hero/>
-
+{/* <Blog_/> */}
     </>
   );
 }
